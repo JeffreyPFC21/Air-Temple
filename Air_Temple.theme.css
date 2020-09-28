@@ -4,8 +4,8 @@
  * @description An Avatar themed background using CapnKitten's "Translucent"
  * @author CapnKitten,Tenzin
  * 
- * @website http://github.com/CapnKitten
- * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
+ * @website http://github.com/JeffreyPFC21
+ * @source https://github.com/JeffreyPFC21/Air-Temple/raw/master/Air_Temple.theme.css
  */
 
 :root {
@@ -18,7 +18,7 @@
   --app-accent-text: #000;
   --sidebar-color: rgba(0,0,0,0.4);
   --main-content-color: rgba(0,0,0,0.2);
-  --messages-color: rgba(0,0,0,0.4);
+  --messages-color: rgba(0,0,0,0);
   --messages-radius: var(--app-radius);
   --textarea-color: 0,0,0;
   --textarea-text-color: #fff;
